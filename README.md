@@ -67,6 +67,5 @@ Operational metrics:
 ├── outputs/
 │   ├── figures/
 │   └── tables/
-├── final_report.pdf
 ├── requirements.txt
 └── README.md
