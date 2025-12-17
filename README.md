@@ -59,6 +59,27 @@ Operational metrics:
 - Decile based lift and cumulative recall tables using predicted probabilities
 - Threshold tuning to select an operating point targeting recall around 0.80 to 0.90 while controlling false positives
 
+## How to Run
+
+1. Create a virtual environment and install dependencies
+   pip install -r requirements.txt
+
+2. Get data
+   python src/get_data.py
+
+3. Clean and preprocess
+   python src/clean_data.py
+
+4. Run analysis
+   python src/run_analysis.py
+
+5. Generate visualizations
+   python src/visualize_results.py
+
+Notebook
+Open notebooks/fraud_risk_analytics.ipynb for additional plots and explanations.
+
+
 ## Repository Structure
 ```text
 .
