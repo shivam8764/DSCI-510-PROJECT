@@ -65,6 +65,7 @@ Operational metrics:
 ├── notebooks/
 │   └── fraud_risk_analytics.ipynb
 ├── outputs/
+|Project Proposal.pdf
 │   ├── figures/
 │   └── tables/
 ├── requirements.txt
